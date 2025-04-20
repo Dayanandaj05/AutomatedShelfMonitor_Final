@@ -1,0 +1,5 @@
+ttkbootstrap
+opencv-python
+ultralytics
+numpy
+pillow
